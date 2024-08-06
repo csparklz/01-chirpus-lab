@@ -1,0 +1,82 @@
+body {
+  background-color: #f9fafc;
+  font-family: "Open Sans", sans-serif;
+}
+header {
+  font-size: 10px;
+  margin-left: 35px;
+}
+header-nav {
+  font-size: 12px;
+  margin: 0;
+}
+.header-nav li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.hire-us-button {
+  font-size: 14px;
+  border-radius: 20px;
+  padding: 10px 10px;
+  background-color: #000;
+  color: #fff;
+  margin: 10px 0;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+}
+.company-name {
+  margin-left: 35px;
+  font-size: 35px;
+}
+.call-to-action-button {
+  font-size: 14px;
+  border-radius: 20px;
+  padding: 10px 10px;
+  background-color: #000;
+  color: #fff;
+  margin-left: 35px;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+}
+.about-paragraph {
+  border-left: 5px solid #000;
+  padding-left: 10px;
+  margin-left: 35px;
+}
+.footer-nav {
+  background-color: rgba(247, 193, 162, 0.7);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+}
+
+.footer-nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer-nav li {
+  margin: 0 1px;
+}
+
+.footer-nav .footer-links {
+  margin-left: auto;
+}
+
+.footer-nav a {
+  text-decoration: none;
+  color: #000;
+  font-size: 16px;
+}
